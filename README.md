@@ -6,8 +6,9 @@ This is my repository that will hold all my lab projects 😗
 
 ‎ | Task | Info
 ------ | ------ | ------ 
-- [ ] ‎| [Lab 1](temp) | Group website
-- [ ] ‎| [Lab 2](temp) | Soon..
-- [ ] ‎| [Lab 3](temp) | Soon..
-- [ ] ‎| [Lab 4](temp) | Soon..
-- [ ] ‎| [Lab 5](temp) | Soon..
+❌| [lab1](temp) | Group website
+❌| [lab2](temp) | Soon..
+❌| [lab3](temp) | Soon..
+❌| [lab4](temp) | Soon..
+❌| [lab5](temp) | Soon..
+
