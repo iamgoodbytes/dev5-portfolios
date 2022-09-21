@@ -2,7 +2,8 @@
 
 ## Intro 👋
 
-Hi there! Welcome to my amazingly short portfolio!<br/>
+Hi there! Welcome to my amazingly short portfolio!
+
 I'm going to publish all my lab-projects in here with handy-dandy links 😄
 
 ## Labs
