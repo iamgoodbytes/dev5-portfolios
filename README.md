@@ -6,7 +6,7 @@ This is my repository that will hold all my lab projects 😗
 
 ‎ | Task | Info
 ------ | ------ | ------ 
-❌| [lab1](temp) | Group website
+✔️| [lab1](https://github.com/AlejandroDeWolf/DEV5-LAB1) | Group website
 ❌| [lab2](temp) | Soon..
 ❌| [lab3](temp) | Soon..
 ❌| [lab4](temp) | Soon..
