@@ -9,7 +9,7 @@
 
 
 | # Lab     | # Description |
-| :-----:   | :------------: |
+| :--------:| :------------: |
 | [LAB1](https://github.com/ZienabAlr/DEV5-LAB1.git) | GIT   | 
 | LAB2      | Soon     | 
 | LAB3      | Soon     | 
