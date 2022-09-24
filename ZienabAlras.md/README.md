@@ -1,7 +1,7 @@
 
-# Zienab Alras - Development5 - Portofolio
+# Zienab Alras - Development5 - Portfolio
 
-Welcome to my [portofolio](https://github.com/ZienabAlr/DEV5-myportofolio.git)! Below you will find my Lab projects for Dvelopment5. 
+Welcome to my [portfolio](https://github.com/ZienabAlr/DEV5-myportofolio.git)! Below you will find my Lab projects for Dvelopment5. 
 
 
 | # Lab    | # Description |
