@@ -6,6 +6,6 @@ https://github.com/AimaneMaadal/DEV5-myportfolio
 
 
 | Labo  | Link | CodeSandbox Demo |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | Lab1 (Groepswebsite)  | https://github.com/AlejandroDeWolf/DEV5-LAB1 |
 | Lab2 (HumanBingo)  | https://github.com/AimaneMaadal/DEV5-myportfolio/tree/main/lab2 | https://codesandbox.io/s/lab2-aimanemaadal-5lvcld |
