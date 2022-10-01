@@ -5,7 +5,7 @@ Live feed of me working:
 
 You can find the main branch of my portfolio [🔗here](https://github.com/Guzse/DEV5-portfolio).
 
-| 📝 | Task | ℹ️ Info |
+| 📝 | Task | 🌐 Links |
 |----|------|------|
 | ✅ | Lab1 | [🌳 GIT to work](https://media.tenor.com/kIxJAr6w7qwAAAAC/gi-joe-destro.gif) |
 | ✅ | Lab2 | [🛠️ Future Proof JS](https://github.com/Guzse/DEV5-portfolio/tree/main/Lab2) |
