@@ -76,22 +76,33 @@ export default class Bingo {
     // }
   }
 
-  static save() {
+  static save(card) {
     // 🔥🔥🔥 TODO 7
     // save the cards that are done to localstorage
     // you can simply save an array with the card numbers like [1, 6, 8]
     // https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
     let cardsWon = [];
     console.log("Saving bingo to localstorage");
-    // let cards = document.querySelectorAll(".bingo__card--done");
+    let cards = document.querySelectorAll(".bingo__card--done");
 
     // if there are not done cards, remove localstorage
-    // if (cards.length === 0) {
-    // remove localstorage
-    // }
+    if (cards.length === 0) {
+      console.log("no cards won, removing localstorage");
+      // remove localstorage
+      localStorage.removeItem("bingo");
+    }
+    //
+    else {
+    //   // loop over the cards that are done and save the card number to the array
+    console.log("cards won", cardsWon);
+    for (let i = 0; i < cards.length; i++) {
+        cardsWon.push(cards[i].dataset.number);
+    }
+      // save a selection like [1, 7, 8] to localstorage item "bingo"
+    localStorage.setItem("bingo", JSON.stringify(cardsWon));
+    }
 
-    // save a selection like [1, 7, 8] to localstorage item "bingo"
-    // you might want to check out how JSON.stringify() works
+    // you might want to check out how JSON.stringify() works <- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
   }
 
   static load() {
@@ -103,10 +114,12 @@ export default class Bingo {
 
     // check if localstorage item exists
     if (localStorage.getItem("bingo")) {
-      // let cardsWon = JSON.parse();
-      // JSON.parse() will convert the string [1, 7, 8] back to an array which you can loop
-      // loop over the numbers 1, 7, 8 and mark those cards as done by adding the right CSS class
-      // .bingo__card--done
+      let cardsWon = JSON.parse(localStorage.getItem("bingo"));
+        console.log("cards won", cardsWon);
+        // loop over the cards that are done and mark them as done
+        for (let i = 0; i < cardsWon.length; i++) {
+            document.querySelector(`[data-number="${cardsWon[i]}"]`).classList.add("bingo__card--done");
+        }
     }
   }
 }
