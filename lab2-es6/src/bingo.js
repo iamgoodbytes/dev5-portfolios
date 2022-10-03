@@ -50,8 +50,8 @@ export default class Bingo {
     for (let i = 0; i<25; i++){
       // console.log("25 🍕 on the board")
       // console.log(new Card(this.cards.length));
-      let card = new Card(this.cards[i]);
-      card.render();
+        let card = new Card(this.cards[i]);
+      card.render(i);
     }
     // loop through all the cards in the array and create a new instance of a Card()
     // for()
