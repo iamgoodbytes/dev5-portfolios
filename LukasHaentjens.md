@@ -8,4 +8,6 @@ I'm going to publish all my lab-projects in here with handy-dandy links 😄
 
 ## Labs
 
-[Lab1 - Git to work](https://github.com/Chelsea-VB/DEV5-LAB1) 
+[Lab1 - Git to work](https://github.com/Chelsea-VB/DEV5-LAB1)
+
+[Lab2 - ES6](https://github.com/lukasHaentjens/dev5-portfolios/tree/main/lab2-es6) 
