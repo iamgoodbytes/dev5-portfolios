@@ -9,3 +9,4 @@
 | Task | Description |
 | ----------- | ----------- |
 | [Lab1](https://github.com/JurRodi/DEV5-myportfolio/tree/main/lab1-git) | GIT to work |
+| [Lab2](https://github.com/JurRodi/DEV5-myportfolio/tree/main/lab2-bingo) | Human bingo |
