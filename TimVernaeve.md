@@ -4,3 +4,4 @@
 | Task | Info |
 | ----------- | ----------- |
 | [Lab1](https://github.com/R0754975/DEV5-LAB1.git) | group website & learngitbranching proof |
+| [Lab2]([https://github.com/R0754975/DEV5-LAB1.git](https://github.com/R0754975/DEV5-LAB2)) | bingo |
