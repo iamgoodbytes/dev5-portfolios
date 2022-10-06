@@ -2,7 +2,7 @@
 ![Alt Text](https://c.tenor.com/KoPW2aXBpOUAAAAC/darth-vader-i-lied.gif)
 
 [Link to my main repository](https://github.com/boysangurkha/DEV5-myportfolio)
-This is my repository where all my LAB projects will appear!
+This is the repository where all my LAB projects will appear!
 
 
 | Projects | Info |
