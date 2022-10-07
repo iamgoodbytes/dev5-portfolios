@@ -1,10 +1,10 @@
-# Michiel van Agtmaal
+# Seppe Bellens
 
 ## Link main repository
-https://github.com/SeppeBe1/DEV5-myportfolio.git
+[Main repository](https://github.com/SeppeBe1/DEV5-myportfolio.git)
 
 ### Lab 1:
-https://github.com/SeppeBe1/DEV5-LAB1
+| [Lab1](https://github.com/SeppeBe1/DEV5-LAB1) | 
 
 ### Lab 2:
-https://github.com/SeppeBe1/DEV5---LAB2.git
+|[Lab2](https://github.com/SeppeBe1/DEV5---LAB2.git) | [Codesandbox](https://codesandbox.io/s/blue-darkness-rs1w0o) |
