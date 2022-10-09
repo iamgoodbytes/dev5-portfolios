@@ -8,3 +8,4 @@
 | --- | --- |
 | [Lab 1](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%201) | GIT |
 | [Lab 2](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%202) | ES6 |
+| [Lab 3](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%203) | API |
