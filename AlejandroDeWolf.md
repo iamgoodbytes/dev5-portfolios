@@ -12,3 +12,4 @@ If you want to visit my portfolio, you can find it [here](https://github.com/Ale
 | ------------- |-------------|
 | [LAB 1](https://github.com/AlejandroDeWolf/DEV5-LAB1)  | GIT - Basics    |
 | [LAB 2](https://github.com/AlejandroDeWolf/DEV5-portfolio/tree/main/lab2-es6)      | ES6 - Human Bingo + Feature   |
+[LAB 3](https://github.com/AlejandroDeWolf/DEV5-portfolio/tree/main/lab3-api)    |  API - Weather-quote generator   |
