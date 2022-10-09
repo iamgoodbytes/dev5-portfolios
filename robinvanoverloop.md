@@ -4,4 +4,4 @@
 
 [LAB1](https://github.com/lienapaeps/dev5-lab1)
 
-[LAB2](https://github.com/robinvanoverloop/lab2) - [HOSTING]()
+[LAB2](https://github.com/robinvanoverloop/lab2) - [LIVE CODE](https://codesandbox.io/s/mystifying-breeze-z31wlg?file=/style.css)
