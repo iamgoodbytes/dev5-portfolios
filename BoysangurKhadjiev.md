@@ -2,10 +2,11 @@
 ![Alt Text](https://c.tenor.com/KoPW2aXBpOUAAAAC/darth-vader-i-lied.gif)
 
 [Link to my main repository](https://github.com/boysangurkha/DEV5-myportfolio)
-This is my repository where all my LAB projects will appear!
+-------------------------------------------------------
+This is the repository where all my LAB projects will appear!
 
 
-| Projects | Info |
-| ------ | ------ |
+| Projects | Info | Codesandbox |
+| ------ | ------ | ------ |
 | [Lab 1](https://github.com/boysangurkha/DEV5-myportfolio/tree/main/LAB1) | GIT |
-| Lab 2 | ES6 |
+| [Lab 2](https://github.com/boysangurkha/DEV5-myportfolio/tree/main/LAB2) | ES6 | [Live link](https://codesandbox.io/embed/silly-moore-ig6pbx?fontsize=14&hidenavigation=1&theme=dark)
