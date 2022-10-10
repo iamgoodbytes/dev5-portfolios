@@ -2,7 +2,19 @@
 
 Hello fellow developer. You have reached the place where your work will shine in all its glory. Read through the info below to know how you can contribute to this repository.
 
-## how to contribute?
+## How to contribute as a moderator
+Thank you for considering helping out with sorting and triaging pull requests. We get a lot of pull requests that are often nog in a correct form to be able to approve right away. 
+
+As a moderator, please do the following:
+- open a pull request and see if you can easily find the source code for a lab (if not, add a comment + label "needs update")
+- see if you can find a live preview (codesandbox or vercel) to the solution (if not, add a comment + label "live preview missing")
+- see if commit messages are in correct form (if not, add a comment + label "commit messages not ok")
+- if a lab seems ok, just add the label "ready to approve" and your teacher will approve the lab if possible
+
+<img width="136" alt="Screenshot 2022-10-10 at 16 34 32" src="https://user-images.githubusercontent.com/3899360/194890874-a5aaae00-c760-4627-9513-7792943f2b57.png">
+
+
+## How to contribute as a student?
 ### 1 - fork this repository
 Forking this repository will create a copy of this repository to your own github account, while also maintaining a link to the original (this) repo.
 This allows you to send in a *pull request* containing changes you want to make to this repository without having direct write access to it.
