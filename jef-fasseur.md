@@ -10,3 +10,4 @@ Hi Joris, welcome to my portfolio for Development 5.
 * [Lab 1](https://github.com/jeffasseur/dev5-lab1)
 * [Lab 2](https://github.com/jeffasseur/DEV5-portfolio/tree/master/lab2-ES6/HumanBingo)
 * [Lab 3](https://github.com/jeffasseur/DEV5-portfolio/tree/master/lab3-API)
+* [Lab 4](https://github.com/jeffasseur/DEV5-portfolio/blob/master/lab4-ThreeJS)
