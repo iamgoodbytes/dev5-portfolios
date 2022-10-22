@@ -11,5 +11,5 @@
 | 1️⃣   | [lab - 1](https://github.com/ArthurdeLophem/dev5-portfolio/tree/main/dev-lab-1/)| ✅ ||
 | 2️⃣   | [lab - 2](https://github.com/ArthurdeLophem/dev5-portfolio/tree/main/dev-lab-2/le-bingo)| ✅ | [codesandbox](https://codesandbox.io/s/bingoer-h2gsbz)|
 | 3️⃣   | [lab - 3](https://github.com/ArthurdeLophem/dev5-portfolio/tree/main/dev-lab-3/le-weather)| ✅ |[codesandbox](https://codesandbox.io/s/weather-gifad-04b76c)|
-| 4️⃣   | [lab - 4](https://github.com/ArthurdeLophem/donunq-showcase)| ✅ | [hosted v](https://donunq.arthuris.online/)|
+| 4️⃣   | [lab - 4](https://github.com/ArthurdeLophem/donunq-showcase)| ✅ | [hosted v](https://donunq-showcase.vercel.app/)|
 | 4️⃣   | [lab - 5](https://github.com/ArthurdeLophem/)| 🔜 | |
