@@ -1,6 +1,6 @@
 # 👾Ricky Heylen
 
-| Reop Link  | Live Link  | Topic |
+| Repo Link  | Live Link  | Topic |
 |:-----------|:-----------|:-----------|
 |[My dev5 Portfolio](https://github.com/Rix11-H/DEV5-myportfolio)| |My DEV5 portfolio|
 | [Lab 1 repo](https://github.com/Rix11-H/DEV5-myportfolio/tree/main/lab1%20-%20git) |  | Learning Git|
