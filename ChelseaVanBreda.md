@@ -8,4 +8,5 @@ Lab | Link to the repository | Extra Info
 ----|------------------------|------------
 GIT to work | [Lab 1 repository](https://github.com/Chelsea-VB/DEV5-LAB1)|
 Human Bingo | [Lab 2 repository](https://github.com/Chelsea-VB/DEV5-LAB2)| [Lab 2 CodeSandBox](https://codesandbox.io/s/lab2-humanbingo-s1yw15) |
+API | [Lab 3 repository](https://github.com/Chelsea-VB/DEV5-LAB3)| [Lab 3 Vercel](https://dev-5-lab-3-blush.vercel.app) |
 THREEJS | [Lab 4 repository](https://github.com/Chelsea-VB/DEV5-LAB4) | [Lab 4 Vercel](https://dev-5-lab-4-sand.vercel.app) |
