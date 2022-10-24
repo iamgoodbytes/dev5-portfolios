@@ -9,3 +9,5 @@
 | [Lab 1](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%201) | GIT |
 | [Lab 2](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%202) | ES6 |
 | [Lab 3](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%203) | API |
+| [Lab 4](https://github.com/MarieSerroyen/DEV5-portfolio/tree/main/Lab%204) | THREE.js |
+| [Lab 5](https://github.com/MarieSerroyen/dev5-lab5) | Node.js |
