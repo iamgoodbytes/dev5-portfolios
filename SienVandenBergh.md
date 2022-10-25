@@ -1,6 +1,6 @@
 # Sien Van den Bergh (2IMD A)
 
-[PORTFOLIO](https://github.com/Sienvdb/DEV5-myportfolio)
+[GITHUB](https://github.com/Sienvdb)
 [LAB 1](https://github.com/Sienvdb/dev5-lab1)
 
 [CODE LAB2](https://github.com/Sienvdb/DEV5-myportfolio/tree/main/labo2)
