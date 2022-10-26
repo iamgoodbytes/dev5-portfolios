@@ -8,7 +8,7 @@ Ik vind het development leuk
  main
 # 3IMD Jeffrey Talemans portfolio
 
-
+![zoe bubblegum](https://media.giphy.com/media/d62yo6Cctc73jqsZXu/giphy.gif);
 
 
 
@@ -17,12 +17,11 @@ Ik vind het development leuk
 |Opdrachten doorheen het semester  |
 | ------------ |
 |[Labo 1: Kunnen werken met github](https://github.com/R0754975/DEV5-LAB1 "Labo 1: Kunnen werken met github") 
-|[Labo 2: Menselijke Bingo](https://github.com/TalemansJeffrey/labo2.git "Labo 2: Human Bingo")|
+|[Labo 2: Menselijke Bingo](https://github.com/TalemansJeffrey/labo2.git "Labo 2: Human Bingo")
 |[Vercel: Menselijke Bingo](https://labo2-jeffreytalemans.vercel.app/ "Vercel")|
 
 
-# Labo 2 JS feature
-=======
+
 
 
 
