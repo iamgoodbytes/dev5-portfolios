@@ -12,6 +12,6 @@
 | :--------:| :------------: |
 | [LAB1](https://github.com/ZienabAlr/DEV5-LAB1.git) | GIT   | 
 | LAB2      | Soon     | 
-| LAB3      | Soon     | 
+| [LAB3](https://github.com/ZienabAlr/DEV5-MyPortfolio.git) + [Link to ad](https://lab3-ochre-delta.vercel.app/) | Advertisement | 
 | LAB4      | Soon     | 
 | LAB5      | Soon     | 
