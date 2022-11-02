@@ -12,6 +12,6 @@
 | :--------:| :------------: |
 | [LAB1](https://github.com/ZienabAlr/DEV5-LAB1.git) | GIT   | 
 | LAB2      | Bingo Cards     | 
-| [LAB3](https://github.com/ZienabAlr/DEV5-MyPortfolio.git) + [Link to ad](https://lab3-ochre-delta.vercel.app/) | Advertisement Nespresso  | 
+| [LAB3](https://github.com/ZienabAlr/DEV5-MyPortfolio.git) + [Link to ad](https://nespresso-ochre-delta.vercel.app/) | Advertisement Nespresso  | 
 | LAB4      | Soon     | 
 | LAB5      | Soon     | 
