@@ -11,7 +11,7 @@
 | # Lab     | # Description |
 | :--------:| :------------: |
 | [LAB1](https://github.com/ZienabAlr/DEV5-LAB1.git) | GIT   | 
-| LAB2      | Bingo Cards     | 
+| [LAB2](https://github.com/ZienabAlr/DEV5-MyPortfolio.git)+ [Code sandbox link](https://codesandbox.io/s/fancy-smoke-jpx7pi?file=/js/bingo.js)     | Bingo Cards     | 
 | [LAB3](https://github.com/ZienabAlr/DEV5-MyPortfolio.git) + [Link to ad](https://nespresso-ochre-delta.vercel.app/) | Advertisement Nespresso  | 
 | LAB4      | Soon     | 
 | LAB5      | Soon     | 
