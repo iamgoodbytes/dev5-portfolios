@@ -11,4 +11,4 @@ Griet Beyens
 |[LAB 3](https://github.com/grietbeyens/DEV5-myportfolio/tree/main/Lab3%20-%20API) | API |
 |[LAB 4](https://github.com/grietbeyens/DEV5-myportfolio/tree/main/Lab4%20-%20Threejs)| Three.js |
 |[LAB 5](https://github.com/grietbeyens/DEV5-myportfolio/tree/main/Lab5%20-%20node)| Node.js (niet gelukt in de api checker) |
-|[LAB 6](https://github.com/grietbeyens/DEV5-myportfolio/tree/main/Lab6%20-%20Vue)| Vue.js |
+|[LAB 6](https://github.com/grietbeyens/DEV5-myportfolio/tree/main/Lab6%20-%20Vue)| Vue.js - chat|
