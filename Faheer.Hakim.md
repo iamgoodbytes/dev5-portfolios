@@ -8,7 +8,7 @@ Welcome to my portfolio! Please [click Here](https://github.com/FaheerHakim/DEV5
 | # Lab     | # Description |
 | :--------:| :------------: |
 | [LAB1](https://github.com/ZienabAlr/DEV5-LAB1.git) | GIT   | 
-| [LAB2 ] (https://github.com/FaheerHakim/DEV5-MyPortfolio.git)    | Bingo    | 
+| [LAB2 ] (https://github.com/FaheerHakim/DEV5-MyPortfolio.git) , [CodeSandbox] (https://vv24fx.csb.app/) | Bingo    | 
 | LAB3      | Soon     | 
 | LAB4      | Soon     | 
 | LAB5      | Soon     |
