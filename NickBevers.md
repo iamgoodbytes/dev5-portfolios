@@ -9,6 +9,7 @@ Lab 2| [Lab 2 Repository](https://github.com/NickBevers/dev5-lab2)| [Lab 2 codes
 Lab 3| [Lab 3 Repository](https://github.com/NickBevers/dev5-lab3)| [Lab 3 codesandbox](https://qmm6sb.csb.app/), [Lab 3 Vercel](https://dev5-lab3.vercel.app/)|
 Lab 4| [Lab 4 Repository](https://github.com/NickBevers/dev5-lab4)| [Lab 4 Vercel](https://dev5-lab4-nickbevers.vercel.app/)
 Lab 5| [Lab 5 Repository](https://github.com/NickBevers/dev5-lab5)| [Lab 5 Vercel](https://dev5-lab5-nickbevers.vercel.app/), [Lab 5 codepen](https://codepen.io/QN09/full/xxjQbXN)
+Lab 6| [Lab 6 Repository](https://github.com/NickBevers/dev5-lab6)| [Lab 6 Vercel](https://dev5-lab6.vercel.app/)
 
 <br>
 <br>
