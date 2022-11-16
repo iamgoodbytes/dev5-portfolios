@@ -11,7 +11,7 @@ You can find the main branch of my portfolio [🔗here](https://github.com/Guzse
 | ✅ | Lab 2 | [🛠️ Future Proof JS](https://codesandbox.io/s/dawn-pine-zz6r6n) |
 | ✅ | Lab 3 | [📱 App Prototypes](https://dev5-lab3-umber.vercel.app) |
 | ✅ | Lab 4 | [🏠 Three JS](https://dev5-lab4-eight.vercel.app) |
-| ❌ | Lab 5 | ??? |
-| ❌ | Lab 6 | ??? |
+| ❌ | Lab 5 | ⚡ Node JS API's |
+| ❌ | Lab 6 | [▶️ VueJS](https://dev-5-portfolio.vercel.app/) |
 | ❌ | Lab 7 | ??? |
 | ❌ | Lab 8 | ??? |
