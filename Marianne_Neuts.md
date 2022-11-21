@@ -13,3 +13,4 @@ A little reminder to myself! ;-)
 | ✔️ | [Lab 3](https://github.com/marianneneuts/DEV5-myportfolio/tree/main/Lab%203) | Location and API based advertisement |
 | ✔️ | [Lab 4](https://github.com/marianneneuts/DEV5-myportfolio/tree/main/Lab%204) | THREEJS |
 | ✔️ | [Lab 5](https://github.com/marianneneuts/DEV5-LAB5) | NodeJS basics |
+| ✔️ | [Lab 6](https://github.com/marianneneuts/DEV5-LAB6) | VUEJS |
