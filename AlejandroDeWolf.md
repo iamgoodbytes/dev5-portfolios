@@ -15,3 +15,4 @@ If you want to visit my portfolio, you can find it [here](https://github.com/Ale
 [LAB 3](https://github.com/AlejandroDeWolf/DEV5-portfolio/tree/main/lab3-api)    |  API - Weather-quote generator   |
 [LAB 4](https://github.com/AlejandroDeWolf/DEV5-portfolio/tree/main/lab4-threejs)    |  Three.js - Mini world   |
 [LAB 5](https://github.com/AlejandroDeWolf/DEV5-lab5/tree/main) + [Codepen](https://codepen.io/alejandrodewolf/pen/rNvgqXK) |  Basic API - Node.js (Express)  |
+[LAB 6](https://github.com/AlejandroDeWolf/DEV5-portfolio/tree/main/lab6-vue) + [Live](https://dev-5-portfolio-coral.vercel.app/#)    |  Vue.js   |
