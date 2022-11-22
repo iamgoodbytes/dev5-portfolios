@@ -7,3 +7,5 @@
 | [Lab 2](https://github.com/LiamP2000/DEV5-myportfolio/tree/main/lab2-bingo) | ES6 | Completed |
 | [Lab 3](https://github.com/LiamP2000/DEV5-myportfolio/tree/main/lab3-weatherapp) | App prototype | Completed |
 | [Lab 4](https://github.com/LiamP2000/DEV5-myportfolio/tree/main/lab4-threejs) | Threejs | Completed |
+| [Lab 5] | Nodejs | Not completed |
+| [Lab 6](https://github.com/LiamP2000/DEV5-myportfolio/tree/main/lab6-vuejs) | VueJS | Completed |
