@@ -12,3 +12,4 @@ Hi Joris, welcome to my portfolio for Development 5.
 * [Lab 3](https://github.com/jeffasseur/DEV5-portfolio/tree/master/lab3-API)
 * [Lab 4](https://github.com/jeffasseur/DEV5-portfolio/blob/master/lab4-ThreeJS)
 * [Lab 5](https://github.com/jeffasseur/dev5-lab5)
+* [Lab 6](https://github.com/jeffasseur/DEV5-portfolio/blob/master/lab6-Vuejs)
