@@ -10,7 +10,9 @@
 | ------------ |
 |[Labo 1: Kunnen werken met github](https://github.com/R0754975/DEV5-LAB1 "Labo 1: Kunnen werken met github")   |
 |[Labo 2: Human bingo](https://github.com/TalemansJeffrey/labo2 "Labo 2: Human bingo")  
-|[Labo 2: Menselijke Bingo](https://labo2.vercel.app/ "Vercel")
+|[Labo 2: Menselijke Bingo](https://labo2.vercel.app/ "Vercel")|
+|[Labo 3: API](https://github.com/TalemansJeffrey/labo3 "Labo3")|
+
 |[Labo 4: Op een vlak staat een huisje](https://github.com/TalemansJeffrey/labo4 "Git")
 |[Labo 4 : vercel](https://labo4-2guibn14e-jeffreytalemans.vercel.app/ "Vercel")
 
