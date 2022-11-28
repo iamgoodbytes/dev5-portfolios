@@ -7,3 +7,4 @@
 | [Lab2](https://github.com/R0754975/DEV5-LAB2) | bingo |
 | [Lab3](https://github.com/R0754975/DEV5-LAB3) | app prototype |
 | [Lab4](https://github.com/R0754975/DEV5-LAB4) | House in Three.js |
+| [Lab6](https://github.com/R0754975/DEV5_LAB6) | Message App with Vue.js |
