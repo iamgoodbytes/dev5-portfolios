@@ -15,3 +15,4 @@
 | [LAB3](https://github.com/ZienabAlr/DEV5-MyPortfolio.git) + [Link to ad](https://lab3-zienabalr.vercel.app) | Advertisement Nespresso  | 
 | LAB4      | Soon     | 
 | LAB5      | Soon     | 
+| [LAB6](https://github.com/ZienabAlr/DEV5-MyPortfolio.git) +[Live link](https://vue-3-tiktok-a.vercel.app/)      | TikTok Vue.js    | 
